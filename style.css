@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: blue;
+}
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin: auto;
+    background-color: rgb(182, 227, 227);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+  
+li {
+    height: 50px;
+}
+
+h2 {
+    height: 80px;
+    font-size: 30px;
+}
+
+h3 {
+    height: 80px;
+}
+body{
+    background-color: rgb(187, 206, 212);
+}
+li {
+    font-size: 20px;
+}

@@ -1,0 +1,22 @@
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin: auto;
+    background-color: rgb(182, 227, 227);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+}
+ul {
+    font-size: 20px;
+}
+.images{
+    display: flex;
+    height: 400px;
+    width: 85%;
+}
